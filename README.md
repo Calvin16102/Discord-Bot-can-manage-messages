@@ -12,7 +12,7 @@ https://www.freecodecamp.org/news/create-a-discord-bot-with-javascript-nodejs/
 1. Make a new bot in Discord developer portal
 2. Name the bot like Safety is our Priority.
 3. upload  the pfp for your new bot
-4. Copy the token after its done. go to link above for specific tutorial.
+4. Copy the token after its done. go to link above for specific tutorial. The token must not be exposed to public.
 5. Open Replit.com in your browser and create a new repl.
 6. the language will be node.js
 7. Switch the console to shell and type these.
