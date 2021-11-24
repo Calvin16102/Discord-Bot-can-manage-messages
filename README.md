@@ -28,10 +28,10 @@ npm install discord.js axios dotenv
 
 6. In the index.js file, type the following code. This can delete messages, send warning message.
 Next to message.reply, feel free to replace the warning text in the brackets. (line 17)
-You can add more badd words in const noNoWords (line 8)
+You can add more bad words in const noNoWords (line 8)
 You can change the slash commands in const prefix (line 6) The default slash commands is ?.
 
 7. Add a file called config.json and type the following code. Replace BOT TOKEN with your token that you've just copied.
-8. Now test it. using the command ?pong ?sum.
+8. Now test it. using the command ?pong ?sum. make sure you've run the repl
 9. Now test it if the message with bad words is deleted then the bot will send the warning text.
 10. Go back to the video to make it active forever.
