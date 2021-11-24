@@ -1,8 +1,13 @@
 What you need:
+
 Tutorial video
+
 Discord bot token
+
 Discord Developer Portal
+
 Replit
+
 UptimeRobot
 
 You will need Replit and UptimeRobot to make the bot active even a year.
