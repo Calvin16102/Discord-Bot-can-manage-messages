@@ -18,7 +18,7 @@ ODAxNjE0OTgzODg4MTA5NTY4.YAjQIQ.FTXq6C1uNgTYQLlcwbYRxuLiHqE
 10. Open [Replit.com][1] [1]: https://replit.com in your browser and create a new repl.
 11. the language will be node.js
 12. Switch the console to shell and type these.
-```npm init```
+13. ```npm init```
 
 To install discord.js packages.
 ```
