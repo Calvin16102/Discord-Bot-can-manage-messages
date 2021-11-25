@@ -39,5 +39,5 @@ client.on("message", function(message) {
   
 });
 
-require('http').createServer((_, res) => res.end("w")).listen(8080)
+require('http').createServer((_, res) => res.end("Nothing here! This is for a discord bot. Join My discord server: https://discord.com/invite/SrGJhjbqaY")).listen(8080)
 client.login(config.BOT_TOKEN);
