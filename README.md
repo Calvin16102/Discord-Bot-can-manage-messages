@@ -1,4 +1,4 @@
-What you need:
+# What you need
 Discord bot token
 Discord Developer Portal
 Replit
@@ -6,6 +6,7 @@ UptimeRobot
 
 You will need Replit and UptimeRobot to make the bot active even a year.
 
+# Making a Discord Bot
 1. In the Discord Developer Portal, Create a new application.
 2. 
 3. Name the bot like Safety is our Priority.
