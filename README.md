@@ -1,8 +1,8 @@
 # What you need
-Discord bot token
-Discord Developer Portal
-Replit
-UptimeRobot
+- Discord bot token
+- Discord Developer Portal
+- Replit (Repl.It)
+- UptimeRobot
 
 You will need Replit and UptimeRobot to make the bot active even a year.
 
